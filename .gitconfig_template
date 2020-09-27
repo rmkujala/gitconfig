@@ -1,3 +1,7 @@
+[core]
+        autocrlf = true
+        safecrlf = false
+        fileMode = false
 [alias]
         co = checkout
         br = branch
