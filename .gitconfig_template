@@ -1,0 +1,10 @@
+[alias]
+        co = checkout
+        br = branch
+        st = status
+        unstage = reset HEAD --
+        diw = diff --word-diff=color
+        log1 = log --oneline --graph --decorate
+        log1a = log --oneline --graph --decorate --all
+[color]
+        ui = auto
