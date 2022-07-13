@@ -1,2 +1,2 @@
 # gitconfig
-My favourite git aliases etc.
+My favourite git aliases.
